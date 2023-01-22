@@ -71,4 +71,4 @@ Every customer is different and every customer journey is different, so a single
 
 
 ## Jupyter Notebooks
-* [K-Means-Clustering-org.ipynb](https://github.com/HadiNazari920804/Delayed_Flights/blob/main/01_Getting%20and%20cleaning%20data.ipynb)
+* [K-Means-Clustering-org.ipynb](https://github.com/HadiNazari920804/K-Means-Clustering/blob/main/K-Means-Clustering-org.ipynb)
